@@ -19,7 +19,7 @@ export const mockProducts: Product[] = [
     title: '2026 Wall Calendar (Pre-Order)',
     description: 'Official 2026 Trace Adkins wall calendar featuring exclusive photos and tour dates.',
     fullDescription: 'Plan your year with the official Trace Adkins 2026 wall calendar. This exclusive calendar features never-before-seen professional photos from studio sessions and live performances. Includes all tour dates, release dates, and special anniversaries. Printed on high-quality premium paper with a durable spiral binding. Perfect for home, office, or as a gift for any Trace Adkins fan.',
-    price: 244.99,
+    price: 99.99,
     originalPrice: 299.99,
     category: ['featured', 'accessories'],
     images: [
@@ -49,7 +49,7 @@ export const mockProducts: Product[] = [
     title: 'Hoodie Zip Black Eagle',
     description: 'Premium black zip-up hoodie featuring the iconic eagle logo embroidery.',
     fullDescription: 'Stay warm and represent with this premium black zip-up hoodie. Features a large embroidered eagle logo on the back and a smaller chest logo. Made from heavyweight 80% cotton / 20% polyester blend for ultimate comfort and durability. Includes a front kangaroo pocket, ribbed cuffs and hem, and a matching drawstring. Perfect for concerts, casual wear, or showing your Trace Adkins pride anywhere.',
-    price: 599.99,
+    price: 199.99,
     originalPrice: 600.99,
     category: ['apparel', 'featured', 'one-hot-mama'],
     images: [
@@ -134,7 +134,7 @@ export const mockProducts: Product[] = [
     title: 'Two-Tone Tote Eagle',
     description: 'Reinforced contrast shoulder straps, one large main compartment One size 16.54in x 16.54in, Gusset width 3.74in, Strap length 28.35in.',
     fullDescription: 'Get into the holiday spirit with this special Christmas album bundle. Includes the "One More Christmas" album on CD, plus two exclusive bonus tracks not available anywhere else. The bundle also comes with a digital download code and a limited edition holiday photo card signed by Trace Adkins. Perfect for holiday gatherings or as a special Christmas gift for the country music fan in your life.',
-    price: 340.99,
+    price: 49.99,
     originalPrice: 350.99,
     category: ['music', 'christmas', 'featured'],
     images: [
@@ -162,7 +162,7 @@ export const mockProducts: Product[] = [
     title: 'Honky Tonk Badonkadonk - Throwback Tee',
     description: 'Official Trace Adkins Merchandise',
     fullDescription: 'Own a piece of music history with this limited edition signed vinyl of Trace Adkins\' acclaimed album "The Way I Wanna Go". Each copy is hand-signed by Trace Adkins himself and includes a certificate of authenticity. Pressed on 180-gram premium vinyl for superior sound quality. The gatefold sleeve features exclusive artwork and liner notes. A must-have for serious collectors and dedicated fans.',
-    price: 700.99,
+    price: 199.99,
     category: ['music', 'the-way-i-wanna-go', 'featured'],
     images: [
       '/TA_HONKYTONK_RINGS_MOCK_2048x2048.webp',
@@ -271,7 +271,7 @@ export const mockProducts: Product[] = [
     title: 'Limited Edition Poster Set',
     description: 'Set of 3 limited edition concert posters from iconic tours.',
     fullDescription: 'Decorate your space with this exclusive set of 3 limited edition concert posters from Trace Adkins\' most iconic tours. Each poster measures 18" x 24" and is printed on high-quality archival paper. Features artwork from the "Songs About Me", "Dangerous Man", and "The Way I Wanna Go" tours. Limited to 500 sets worldwide, each numbered and comes with a certificate of authenticity. Ready to frame and display.',
-    price: 499.99,
+    price: 200,
     originalPrice: 512.99,
     category: ['accessories', 'sale', 'featured'],
     images: [
